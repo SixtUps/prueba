@@ -1,0 +1,2 @@
+texto = "daaadasdad"
+print(texto)

@@ -1,2 +1,2 @@
-texto = "daaadasdad"
+texto = "dEs"
 print(texto)

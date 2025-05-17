@@ -1,4 +1,4 @@
-N = "Sixto"
+N = "SIXTO"
 A = "PA"
 
 

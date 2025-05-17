@@ -1,4 +1,4 @@
-N = "Sixto"
+N = "Cualquir tipo de persona ya fue"
 A = "PA"
 
 

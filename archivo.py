@@ -2,6 +2,6 @@ N = "Sixto"
 A = "PA"
 
 
-saludo = f"Buenas tardes {nombre} sus apellidos son: {apellidos}"
+saludo = f"Buenas tardes {N} sus apellidos son: {A}"
 
 print(saludo)

@@ -1,2 +1,0 @@
-texto = "dEs"
-print(texto)

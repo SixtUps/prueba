@@ -1,4 +1,4 @@
-N = "Cualquir tipo de persona ya fue"
+N = "SXTO"
 A = "PA"
 
 

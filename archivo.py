@@ -1,5 +1,5 @@
 nombre = "Sixto"
-apellidos = "Perez Abarca"
+apellidos = "PA"
 
 
 saludo = f"Buenas tardes {nombre} sus apellidos son: {apellidos}"
